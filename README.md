@@ -1,4 +1,4 @@
-
+[![bilgi-caginda-varolma-savaslari-1280x640.jpg](https://i.postimg.cc/sgdY06X9/bilgi-caginda-varolma-savaslari-1280x640.jpg)](https://postimg.cc/JGxHsQjG)
 <h1 align="center">Hi 👋, I'm Alex Junior Valera</h1>
 <h3 align="center">I'm currently looking for work in junior development.</h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
