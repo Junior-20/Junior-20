@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/junior-valera-herrera-632479225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junior-valera-herrera-632479225/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19369677/j%c3%bcnior-valera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19369677/j%c3%bcnior-valera" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/alexjunior.valera.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/alexjunior.valera.16/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/juniorva_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juniorva_20/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/junior-valera-herrera-632479225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junior-valera-herrera-632479225/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19369677/j%c3%bcnior-valera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19369677/j%c3%bcnior-valera" height="30" width="40" /></a>
+<a href="https://web.facebook.com/alexjunior.valera.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/alexjunior.valera.16/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/juniorva_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juniorva_20/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,9 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junior-20&show_icons=true&locale=en&layout=compact" alt="junior-20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junior-20&show_icons=true&locale=en" alt="junior-20" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=junior-20&show_icons=true&locale=en" alt="junior-20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junior-20&" alt="junior-20" /></p>
 
 
 
