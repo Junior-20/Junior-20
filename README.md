@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/Junior-20)
+
 <h1 align="center">Hi 👋, I'm Alex Junior Valera</h1>
 <h3 align="center">I'm currently looking for work in junior development.</h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
