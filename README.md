@@ -24,7 +24,7 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=junior-20&show_icons=true&locale=en&layout=compact" alt="junior-20" /></p>
 
-<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=junior-20&show_icons=true&locale=en" alt="junior-20" /></p>
+<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=junior-20&show_icons=true&locale=en" alt="junior-20" /></p>
 
  ![Snake animation](https://github.com/Junior-20/Junior-20/blob/output/github-contribution-grid-snake.svg)
 
